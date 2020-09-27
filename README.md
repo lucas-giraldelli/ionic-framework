@@ -1,2 +1,2 @@
-# ionic-framework
-Testing ionic components framework
+# Ionic Framework.
+Testing ionic components framework with pure javascript.
